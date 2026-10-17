@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "7f9099aa91b76a83a6418725",
+  "owner": "m5edqakt",
+  "repo": "page-2daa80541639e028b3ffad70",
+  "title": "云平台",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2daa80541639e028b3ffad70",
+      "a": "云平台",
+      "b": "",
+      "entity": "云平台",
+      "brand": "云平台",
+      "separator": "",
+      "path": "index.html",
+      "hash": "71f5d215765dd88e11bd4d28f618cc07a3577c3a7ab2ba9d63f39fa42b342cf3",
+      "content": {
+        "keyword1": "云平台",
+        "keyword2": "",
+        "primary_entity": "云平台",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "云平台为您提供稳定、高效的现代化数字网络服务。从日常浏览到团队协作，我们用橙色能量点亮您的数字生活，带来流畅无阻的全新体验。",
+          "AI_DESCRIPTION": "云平台为您提供稳定、高效的现代化数字网络服务。从日常浏览到团队协作，我们用橙色能量点亮您的数字生活，带来流畅无阻的全新体验。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #ffffff;--text-color: #111111;--muted-color: #666666;--accent-color: #ff5500;--accent-light: #fff2ed;--border-color: #111111;--panel-bg: #f9f9f9}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-color);color: var(--text-color);font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;line-height: 1.6;display: flex;min-height: 100vh}\naside {width: 260px;background-color: var(--panel-bg);border-right: 3px solid var(--border-color);padding: 2.5rem 1.5rem;display: flex;flex-direction: column;justify-content: space-between;position: fixed;top: 0;bottom: 0;left: 0;overflow-y: auto}\n.logo {font-size: 1.5rem;font-weight: 900;letter-spacing: -1px;color: var(--text-color);text-decoration: none;margin-bottom: 2.5rem;display: block}\n.logo span {color: var(--accent-color)}\n.nav-menu {list-style: none;display: flex;flex-direction: column;gap: 1.2rem}\n.nav-menu a {text-decoration: none;color: var(--text-color);font-weight: 600;font-size: 1.05rem;transition: color 0.2s}\n.nav-menu a:hover {color: var(--accent-color)}\n.aside-footer {font-size: 0.85rem;color: var(--muted-color);border-top: 1px solid #ddd;padding-top: 1rem}\nmain {margin-left: 260px;flex: 1;padding: 3rem;max-width: 1200px}\n@media (max-width: 900px) {\n  body {flex-direction: column}\n  aside {position: relative;width: 100%;height: auto;border-right: none;border-bottom: 3px solid var(--border-color);padding: 1.5rem}\n  main {margin-left: 0;padding: 1.5rem}\n}\nsection {margin-bottom: 5rem}\nh1 {font-size: 3rem;font-weight: 900;line-height: 1.1;margin-bottom: 1.5rem;letter-spacing: -2px}\nh1 span {color: var(--accent-color)}\nh2 {font-size: 2rem;font-weight: 800;margin-bottom: 1.5rem;letter-spacing: -1px;border-bottom: 3px solid var(--border-color);padding-bottom: 0.5rem;display: inline-block}\np {color: var(--muted-color);font-size: 1.1rem;margin-bottom: 1.5rem;max-width: 700px}\n.dashboard-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));gap: 1.5rem;margin-top: 2rem}\n.card {border: 3px solid var(--border-color);background: var(--bg-color);padding: 2rem;box-shadow: 6px 6px 0px var(--border-color)}\n.card h3 {font-size: 1.3rem;font-weight: 800;margin-bottom: 0.5rem}\n.card .metric {font-size: 2.2rem;font-weight: 900;color: var(--accent-color);margin-bottom: 0.5rem}\n.plans-table-container {overflow-x: auto;margin-top: 2rem}\ntable.plans-table {width: 100%;border-collapse: collapse;border: 3px solid var(--border-color);text-align: left}\ntable.plans-table th, table.plans-table td {border: 2px solid var(--border-color);padding: 1rem 1.5rem}\ntable.plans-table th {background-color: var(--accent-light);font-weight: 800;font-size: 1.2rem}\ntable.plans-table td {background-color: var(--bg-color)}\n.featured-badge {background: var(--accent-color);color: white;padding: 0.2rem 0.5rem;font-size: 0.8rem;font-weight: bold;text-transform: uppercase;display: inline-block;margin-bottom: 0.5rem}\n.faq-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));gap: 2rem;margin-top: 2rem}\n.faq-item {border: 3px solid var(--border-color);padding: 1.5rem;background: var(--panel-bg)}\n.faq-item h3 {font-size: 1.1rem;font-weight: 800;margin-bottom: 0.8rem;color: var(--text-color)}\n.faq-item p {font-size: 1rem;margin-bottom: 0}\n.cta-box {border: 3px solid var(--border-color);background-color: var(--accent-light);padding: 3rem;display: flex;flex-direction: column;align-items: flex-start;gap: 1.5rem}\n.btn {background: var(--accent-color);color: white;padding: 1rem 2rem;font-weight: 800;font-size: 1.1rem;border: 3px solid var(--border-color);text-decoration: none;box-shadow: 4px 4px 0px var(--border-color);transition: transform 0.1s, box-shadow 0.1s}\n.btn:hover {transform: translate(-2px, -2px);box-shadow: 6px 6px 0px var(--border-color)}\n</style><aside>\n  <div>\n    <a href=\"#\" class=\"logo\">云平台<span>.</span></a>\n    <ul class=\"nav-menu\">\n      <li><a href=\"#overview\">仪表盘概览</a></li>\n      <li><a href=\"#features\">核心优势</a></li>\n      <li><a href=\"#plans\">服务套餐</a></li>\n      <li><a href=\"#faq\">常见问题</a></li>\n    </ul>\n  </div>\n  <div class=\"aside-footer\">\n    <p>© 云平台 现代化网络与数据支持</p>\n  </div>\n</aside>\n\n<main>\n  <section id=\"overview\">\n    <h1>告别网络延迟，<br>欢迎来到<span>云平台</span>世界</h1>\n    <p>嘿！很高兴能在这里向你介绍我们的服务。我们专为追求高效、稳定网络体验的朋友们打造。来看看我们为你准备的实时运行状态与核心数据拼贴：</p>\n    \n    <div class=\"dashboard-grid\">\n      <div class=\"card\">\n        <h3>全网节点</h3>\n        <div class=\"metric\">100+</div>\n        <p>精选优质骨干线路，随时随地触达全球。</p>\n      </div>\n      <div class=\"card\">\n        <h3>在线率保障</h3>\n        <div class=\"metric\">99.9%</div>\n        <p>多重冗余备份，全天候守护你的连接不断线。</p>\n      </div>\n      <div class=\"card\">\n        <h3>平均延迟</h3>\n        <div class=\"metric\">&lt; 35ms</div>\n        <p>极致优化路由，告别卡顿与加载转圈。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"features\">\n    <h2>为什么大家都在用它？</h2>\n    <p>我们相信科技应该让生活更轻松。没有复杂的配置，也没有晦涩的术语，一切都为你准备就绪。</p>\n    \n    <div class=\"dashboard-grid\">\n      <div class=\"card\">\n        <h3>一键轻松上手</h3>\n        <p>不管你用的是什么设备，只需简单的导入和点击，即可瞬间开启畅快之旅。</p>\n      </div>\n      <div class=\"card\">\n        <h3>多设备随心切换</h3>\n        <p>手机、平板、笔记本同时在线，一个账号满足你所有的日常连接需求。</p>\n      </div>\n      <div class=\"card\">\n        <h3>流媒体与专线优化</h3>\n        <p>原生解锁各大流媒体平台，更配有游戏专项优化，满足全方位的娱乐与工作需求。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>灵活透明的套餐选择</h2>\n    <p>无论你是轻度使用者，还是对带宽有极高要求的团队，这里总有一款适合你。没有任何隐藏费用，按需选择，随时升级。</p>\n    \n    <div class=\"plans-table-container\">\n      <table class=\"plans-table\">\n        <thead>\n          <tr>\n            <th>服务特性</th>\n            <th>基础版</th>\n            <th>旗舰版 <span>最受欢迎</span></th>\n            <th>团队版</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td><strong>价格</strong></td>\n            <td>¥15/月<br><small>年付 ¥150/年</small></td>\n            <td>¥35/月<br><small>年付 ¥350/年</small></td>\n            <td>¥85/月<br><small>年付 ¥850/年</small></td>\n          </tr>\n          <tr>\n            <td><strong>极速流量</strong></td>\n            <td>每月 100GB</td>\n            <td>每月 300GB</td>\n            <td>每月 1000GB</td>\n          </tr>\n          <tr>\n            <td><strong>设备在线</strong></td>\n            <td>支持 3 台设备</td>\n            <td>支持 5 台设备</td>\n            <td>支持 20 台设备</td>\n          </tr>\n          <tr>\n            <td><strong>核心权益</strong></td>\n            <td>普通线路节点池<br>解锁基础流媒体</td>\n            <td>全节点原生流媒体解锁<br>IPLC 专线游戏加速优化</td>\n            <td>VIP 专属高带宽节点<br>支持企业定制路由</td>\n          </tr>\n          <tr>\n            <td><strong>技术支持</strong></td>\n            <td>标准社区支持</td>\n            <td>7x24 优先工单支持</td>\n            <td>专属客户经理服务</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题解答</h2>\n    <p>如果你在使用的过程中遇到了小疑问，不妨先在这里找找答案。当然，随时欢迎联系我们的小伙伴！</p>\n    \n    <div class=\"faq-grid\">\n      <div class=\"faq-item\">\n        <h3>购买后如何开始使用？</h3>\n        <p>非常简单！购买完成后，你会在后台看到专属的订阅链接或一键导入按钮，按照提示导入到你习惯的客户端内即可开始使用。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>支持哪些主流客户端设备？</h3>\n        <p>我们全面支持市面上主流的各类操作系统与客户端工具，无论你是 Windows、macOS、iOS 还是 Android 用户，都能完美适配。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>流量不够用了可以升级吗？</h3>\n        <p>完全可以！你可以随时在用户后台选择补差价升级到更高阶的套餐，系统会立刻为你实时开通对应权益。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>遇到连接问题怎么办？</h3>\n        <p>别担心，我们有详细的新手使用文档。如果仍未解决，旗舰版与团队版用户可享受 7x24 小时优先工单支持，我们随时为你排忧解难。</p>\n      </div>\n    </div>\n  </section>\n\n  <section>\n    <div class=\"cta-box\">\n      <h2>准备好体验顺滑如丝的网络了吗？</h2>\n      <p>加入我们，告别延迟卡顿，让数字生活重新高效运转起来。</p>\n      <a href=\"#plans\" class=\"btn\">立即挑选心仪套餐</a>\n    </div>\n  </section>\n</main>",
+          "hash": "914be41ecefe080763211205a1e5c50fb6c3110896a0d4a12b2b41105990169d",
+          "seo": {
+            "title": "云平台 - 稳定可靠的现代化数据与网络服务支持",
+            "keywords": "云平台,网络加速,数据稳定,流畅连接,高效协作",
+            "description": "云平台为您提供稳定、高效的现代化数字网络服务。从日常浏览到团队协作，我们用橙色能量点亮您的数字生活，带来流畅无阻的全新体验。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "1075",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qdaly.cn",
+    "host": "p-6dd7adb1ea.qdaly.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "9785ac5c6ee93665a045a7e91f438aa68c83ed887cc692034237cf7dad57003b",
+    "sitemap.xml": "928656af34b78142f6b16047d60c581ce6f5680c6b9b88de505e5810b1f165b7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "63aa986173f3f501aeaabf7002ec74c73a23c667588cdf5590fd5a06d0adf900",
+    "robots.txt": "bb4566106f9d485c1a5cb41c9037a54b6921ba98f87912d7e0f6bd217665ec84",
+    "1983a00f3f9834338be44d5c381729c2.txt": "2d8ffff7fc9c66de8ea2a6d08a818bfb491231b45b8b465810643b927775d3d8"
+  },
+  "revision": "7aadd60a159265f65d6e9d454841a8649189c1019bf0f74a932446311c8da937"
+}
